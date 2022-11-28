@@ -10,8 +10,8 @@ So, I've decided to combine my 2 loves and attempt to port Doom to .NET. Yes thi
 Will I complete the port? Who knows! All I will commit too is documenting this adventure as I go. I don't expect this to blow the world away. I just want to see if I can understand my favourite game of all time in a better way and have a good time doing so.
 
 ## What am I doing?
-[docs/plan]
+[docs/plan]("doc/plan")
 
 ## Resources
-https://www.gamers.org/dhs/helpdocs/dmsp1666.html
-https://doomwiki.org/wiki/WAD
+- https://www.gamers.org/dhs/helpdocs/dmsp1666.html
+- https://doomwiki.org/wiki/WAD
