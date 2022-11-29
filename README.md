@@ -11,6 +11,7 @@ Will I complete the port? Who knows! All I will commit too is documenting this a
 
 ## What am I doing?
 [docs/plan](https://github.com/zenllama/LlamaDoom/blob/master/docs/plan.md)
+[Blog](https://github.com/zenllama/LlamaDoom/blob/master/docs/blog.md)
 
 ## Resources
 - https://www.gamers.org/dhs/helpdocs/dmsp1666.html
